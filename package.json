@@ -1,0 +1,19 @@
+{
+    "name": "instagram_web_login",
+    "version": "1.0.0",
+    "description": "instagram_web_login",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Juan Chaparro",
+    "license": "ISC",
+    "dependencies": {
+        "@peculiar/webcrypto": "^1.1.1",
+        "btoa": "^1.2.1",
+        "dotenv": "^8.2.0",
+        "tweetnacl": "^1.0.3",
+        "tweetnacl-sealedbox-js": "^1.2.0"
+    }
+}
