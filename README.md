@@ -7,10 +7,16 @@ ___
 > git clone https://github.com/JuanFelipeChaparro/InstagramWebLogin.git
 > cd InstagramWebLogin
 > npm install
-> npm start
 ```
 
-#### .env file
+### Usage
+```
+*Set .env file
+> npm start
+*You'll find 'sessionid' in response cookies
+```
+
+### .env file
 ```
 # URL
 INSTAGRAM = www.instagram.com
